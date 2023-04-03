@@ -8,6 +8,8 @@ https://github.com/coding-to-music/volkovlabs-echarts-panel
 
 From / By https://github.com/VolkovLabs/volkovlabs-echarts-panel
 
+https://docs.volkovlabs.io/
+
 https://www.youtube.com/watch?v=B4Uj1n4Cr88&ab_channel=VolkovLabs
 
 https://github.com/yesoreyeram/grafana-infinity-datasource (Infinity Datasource)
