@@ -1,3 +1,45 @@
+# volkovlabs-echarts-panel
+
+# 🚀 Apache ECharts Panel for @grafana. 🚀
+
+Apache ECharts Panel for @grafana.
+
+https://github.com/coding-to-music/volkovlabs-echarts-panel
+
+From / By https://github.com/VolkovLabs/volkovlabs-echarts-panel
+
+https://www.youtube.com/watch?v=B4Uj1n4Cr88&ab_channel=VolkovLabs
+
+https://github.com/yesoreyeram/grafana-infinity-datasource (Infinity Datasource)
+
+https://github.com/VolkovLabs/volkovlabs-echarts-panel (Apache ECharts Plugin)
+
+https://github.com/grafana/grafana-json-datasource  (JSON API Plugin)
+
+https://grafana.com/grafana/plugins/marcusolsson-static-datasource/
+
+## Environment variables:
+
+```java
+
+```
+
+## user interfaces:
+
+- Grafana http://localhost:3000
+
+## GitHub
+
+```java
+git init
+git add .
+git remote remove origin
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:coding-to-music/volkovlabs-echarts-panel.git
+git push -u origin main
+```
+
 # Apache ECharts Panel for Grafana
 
 ![ECharts](https://github.com/VolkovLabs/volkovlabs-echarts-panel/raw/main/src/img/dashboard.png)
